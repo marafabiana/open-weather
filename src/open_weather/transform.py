@@ -1,0 +1,1 @@
+# Processa os dados recebidos usando Pandas. Limpa e manipula dados com Pandas.

@@ -1,0 +1,1 @@
+# Le o .env e centraliza configuracoes

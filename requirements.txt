@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+ipykernel 
+jupyter
+prettytable==3.9.0
+ruff
+
+

@@ -1,1 +1,0 @@
-# Faz as requisicoes HTTP na API OpenWeather. Busca dados da API
